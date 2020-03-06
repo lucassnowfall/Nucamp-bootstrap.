@@ -1,0 +1,19 @@
+{
+  "name": "nucampsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas de Souza",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "lite-server": "^2.3.0",
+    "popper.js": "^1.12.9"
+  }
+}
